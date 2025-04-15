@@ -2,14 +2,25 @@
 
 <p align="center">
   <p align="center">
-  <a href="https://github.com/MiguelG7">
-    <img src="https://readme-typing-svg.demolab.com?lines=MIGUELG7(◣_◢)&font=Fira+Code&center=true&width=650&height=50&color=FFD311&vCenter=true&pause=0&size=50&background=00000000" />
-  </a>
+  <h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 30px; color: #FFD311;">
+  MIGUELG7(◣_◢)
+  </h1>
   <p align="center">
   <a href="https://github.com/MiguelG7">
     <img src="https://readme-typing-svg.demolab.com?lines=Desarrollador+Fullstack;Intento+aprender+y+divertirme&font=Fira+Code&center=true&width=650&height=50&color=FFD311&vCenter=true&pause=0&size=30&background=00000000" />
   </a>
 </p>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/ACTUALEMENTE%20TRABAJANDO%20EN%20MI%20TFG-Chischás!-FFD311?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+  <p align="center">
+  <a href="https://github.com/MiguelG7/chischas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelG7&repo=chischas&theme=dark&title_color=FACC15&text_color=ffffff&icon_color=FACC15&border_color=FACC15" />
+  </a>
+    </h2>
+</p>
+
+
+
   <p align="center">Aquí puedes contactarme o ver mis estudios:</p>
 <p align="center">
   <a href="mailto:contacto.miguelgamboa@gmail.com"><img src="https://img.shields.io/badge/Email-FFD311?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
