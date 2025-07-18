@@ -11,7 +11,7 @@
   </a>
 </p>
 <h2 align="center">
-  <img src="https://img.shields.io/badge/ACTUALMENTE%20TRABAJANDO%20EN%20MI%20TFG-Chischás!-FFD311?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MI%20TFG-Chischás!-FFD311?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
   <p align="center">
   <a href="https://github.com/MiguelG7/chischas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelG7&repo=chischas&theme=dark&title_color=FACC15&text_color=ffffff&icon_color=FACC15&border_color=FACC15" />
